@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-09-15",
+  "places": [
+    {
+      "name": "World Museum Liverpool",
+      "primaryType": "Museum/Gallery",
+      "area": "Liverpool",
+      "tags": ["Indoor", "Free", "Baby-friendly", "Toddler-friendly", "Pram-accessible", "Cafe on-site", "Changing facilities"],
+      "ageSuitability": ["0-1", "1-2", "2-4", "4+"],
+      "priceInfo": "Free entry. Small charge for planetarium shows and some special exhibitions.",
+      "address": "William Brown Street, Liverpool, L3 8EN",
+      "openingHours": "Tuesday\u2013Sunday 10:00\u201317:00 (last admission ~16:30). Closed Mondays, except during school holidays. Closed Christmas Day, Boxing Day and New Year's Day.",
+      "website": "https://www.liverpoolmuseums.org.uk/world-museum",
+      "imageUrl": null
+    },
+    {
+      "name": "Knowsley Safari Park",
+      "primaryType": "Farm/Animal",
+      "area": "Knowsley",
+      "tags": ["Outdoor", "Paid", "Baby-friendly", "Toddler-friendly", "Parking on-site", "Cafe on-site", "Changing facilities"],
+      "ageSuitability": ["0-1", "1-2", "2-4", "4+"],
+      "priceInfo": "Babies under 1: free. Toddlers/children and adults: paid, price varies by age and booking method \u2014 check official site for current pricing.",
+      "address": "Knowsley Safari, Prescot, Merseyside, L34 4AN",
+      "openingHours": "Varies seasonally \u2014 typically 10:00 start, closing time 17:00\u201318:00 depending on season. Confirm current days/hours on the official site before visiting.",
+      "website": "https://www.knowsleysafari.co.uk",
+      "imageUrl": null
+    },
+    {
+      "name": "Croxteth Hall & Country Park",
+      "primaryType": "Farm/Animal",
+      "area": "Liverpool",
+      "tags": ["Outdoor", "Free", "Paid", "Baby-friendly", "Toddler-friendly", "Pram-accessible", "Parking on-site", "Cafe on-site", "Changing facilities"],
+      "ageSuitability": ["0-1", "1-2", "2-4", "4+"],
+      "priceInfo": "Country park: free. Farm: small charge per person, under-1s free. Hall/Walled Garden: separate paid admission when open.",
+      "address": "Croxteth Hall Lane, Liverpool, L12 0HB (farm entrance via Muirhead Avenue, L11 1EH)",
+      "openingHours": "Country park: daily, 7am\u20137pm (Apr\u2013Oct) / 7am\u20135:30pm (Nov\u2013Mar). Farm: daily 10am\u20135pm, last entry 4pm. Hall & Walled Garden: seasonal, roughly late March\u2013late September \u2014 check before visiting.",
+      "website": "https://www.croxteth-hall.co.uk",
+      "imageUrl": null
+    },
+    {
+      "name": "Wirral Country Park (Thurstaston)",
+      "primaryType": "Nature/Woodland",
+      "area": "Wirral",
+      "tags": ["Outdoor", "Free", "Baby-friendly", "Toddler-friendly", "Pram-accessible", "Parking on-site", "Cafe on-site", "Changing facilities", "Weather-dependent"],
+      "ageSuitability": ["0-1", "1-2", "2-4", "4+"],
+      "priceInfo": "Free entry. Small charge for car parking.",
+      "address": "Wirral Country Park Visitor Centre, Station Road, Thurstaston, Wirral, CH61 0HN",
+      "openingHours": "Country park open daily, 24 hours. Visitor centre, cafe and toilets: 10am\u20134:30pm (Apr\u2013Sep) / 10am\u20133:30pm (Oct\u2013Mar), closed Christmas Day.",
+      "website": "https://www.wirral.gov.uk/leisure-parks-and-events/parks-and-open-spaces/find-park-or-open-space/wirral-country-park",
+      "imageUrl": null
+    },
+    {
+      "name": "Yellow Sub Play Centre",
+      "primaryType": "Soft Play",
+      "area": "Liverpool",
+      "tags": ["Indoor", "Paid", "Toddler-friendly", "Cafe on-site"],
+      "ageSuitability": ["1-2", "2-4", "4+"],
+      "priceInfo": "Paid entry, priced per child by age band; check official site once reopened.",
+      "address": "Dempster Buildings, Atlantic Way, Brunswick Business Park, Liverpool, L3 4BE",
+      "openingHours": "Closed for refurbishment as of writing \u2014 expected to reopen Autumn 2026. Previously: 10am\u20136pm Tue\u2013Sun, closed Mondays except school/bank holidays.",
+      "website": "https://www.yellowsub.co.uk",
+      "imageUrl": null
+    }
+  ]
+}
